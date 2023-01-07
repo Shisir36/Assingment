@@ -1,5 +1,5 @@
 .banner{
-    background-image:url("/images/banner/banner3.png");
+    background-image:url("../images/banner/banner3.png");
     background-repeat: no-repeat;
     height: 800px;
     width: 1700px;
@@ -85,7 +85,7 @@ h2{
     font-size: 25px;
 }
  .template{
-    background-image: url("/images/watch.png"); 
+    background-image: url("../images/watch.png"); 
     height: 500px;
     background-repeat: no-repeat;
    margin-left: 270px;
